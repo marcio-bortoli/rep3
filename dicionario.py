@@ -1,3 +1,4 @@
+import os
 def dicionario_exemplo():
     dicionario = {}
     print("1 - P/ Lançar")
